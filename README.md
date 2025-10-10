@@ -9,7 +9,7 @@
       <br>
   </samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FF79C6&center=true&width=900&lines=Bem-Vindo(a)!;Me+chamo+Marcela+Santiago%2C;curso+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%2C;conhe%C3%A7a+mais+sobre+abaixo%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=FF79C6&center=true&width=900&lines=Bem-Vindo(a)!;Me+chamo+Marcela+Santiago%2C;graduanda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%2C;conhe%C3%A7a+mais+sobre+abaixo%3A)](https://git.io/typing-svg)
 </div>
 
 <br>
