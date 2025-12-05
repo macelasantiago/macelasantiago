@@ -14,7 +14,6 @@
 
 <br>
 <div align="center">
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macelasantiago&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macelasantiago&theme=omni"/>
